@@ -1,26 +1,9 @@
 📺央视频道,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-5+
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-CCTV-16
-CCTV-17
+
 
 
 📡港台频道,#genre#
-TVB无线新闻
+TVB亞洲劇,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8$! 
+TVB星河(粵),https://t.freetv.fun/live/tvbxing-he.m3u8
 
 ☘️国际频道,#genre#
-CNN
