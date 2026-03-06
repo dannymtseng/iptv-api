@@ -1,7 +1,3 @@
-📺央视频道,#genre#
-
 📡港台频道,#genre#
-TVB亞洲劇,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8$!
-TVB星河(粵),https://t.freetv.fun/live/tvbxing-he.m3u8
-
-☘️国际频道,#genre#
+TVB亞洲劇,http://39.134.66.66/PLTV/88888888/224/3221225805/index.m3u8$!   ; 央视系常用测试源，可替换
+TVB星河(粵),http://live.zbds.top/hls/tvbtv.m3u8$!   ; 另一个常见免费源（可能随时失效）
