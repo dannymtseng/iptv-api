@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dannymtseng/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="TVB亞洲劇" tvg-logo="http://10.1.1.71:5180/logo/TVB亞洲劇.png" group-title="🕘️更新时间",2026-03-06 20:48:00
+#EXTINF:-1 tvg-id="1" tvg-name="TVB亞洲劇" tvg-logo="http://10.1.0.20:5180/logo/TVB亞洲劇.png" group-title="🕘️更新时间",2026-03-06 20:54:49
 http://39.134.66.66/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TVB亞洲劇" tvg-logo="http://10.1.1.71:5180/logo/TVB亞洲劇.png" group-title="📡港台频道",TVB亞洲劇
+#EXTINF:-1 tvg-id="1" tvg-name="TVB亞洲劇" tvg-logo="http://10.1.0.20:5180/logo/TVB亞洲劇.png" group-title="📡港台频道",TVB亞洲劇
 http://39.134.66.66/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="TVB星河(粵)" tvg-logo="http://10.1.1.71:5180/logo/TVB星河(粵).png" group-title="📡港台频道",TVB星河(粵)
+#EXTINF:-1 tvg-id="2" tvg-name="TVB星河(粵)" tvg-logo="http://10.1.0.20:5180/logo/TVB星河(粵).png" group-title="📡港台频道",TVB星河(粵)
 http://live.zbds.top/hls/tvbtv.m3u8
